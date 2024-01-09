@@ -12,6 +12,9 @@ public class Primera_Clase {
 		
 		Sring apellido = "Mateu";
 		System.out.println("Hola" + nombre);
+		
+		
+		Sring apellido_dos = "Rodriguez";
 	}
 
 }

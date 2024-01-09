@@ -6,6 +6,11 @@ public class Primera_Clase {
 		// TODO Auto-generated method stub
 		System.out.println("Hola");
 		String nombre = "PEre";
+		
+		
+		
+		
+		Sring apellido = "Mateu";
 		System.out.println("Hola" + nombre);
 	}
 

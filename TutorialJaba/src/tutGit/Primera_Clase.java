@@ -15,6 +15,7 @@ public class Primera_Clase {
 		
 		
 		Sring apellido_dos = "Rodriguez";
+		Sring apellido_dos = "Mateu";
 	}
 
 }
